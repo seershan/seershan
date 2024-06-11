@@ -12,6 +12,11 @@ Welcome to my GitHub profile! I'm currently diving into the exciting realms of f
 
 So far, I've completed one project:
 - [Basic Amazon Clone](https://github.com/seershan/basic-amazon-clone-front-end-project) - A simple replica of Amazon's front end. Check it out and let me know what you think!
+- [Basic Netflix Clone](https://github.com/seershan/basic-netflix-clone-front-end-project) - A simple replica of Netflix's front end. Check it out and let me know what you think!
+- [Basic Tribute Website](https://github.com/seershan/basic-tribute-satyajit-ray-website) - This simple tribute website is dedicated to the renowned filmmaker Satyajit Ray. The website is built using HTML and CSS as a practice project.
+- [Work Fast Notepad](https://github.com/seershan/Work-Fast-Notepad) - Work Fast Notepad is a sleek and efficient online notepad application designed to enhance your productivity. A minimalist interface and essential features provide a distraction-free environment for jotting down notes, brainstorming ideas, or drafting documents quickly.
+- [Rock Paper Scissors Game](https://github.com/seershan/rock-paper-scissors) - Welcome to the Rock Paper Scissors Game! This project is a simple web-based game developed using HTML, CSS, and JavaScript. The goal of this project was to learn and apply fundamental web development concepts.
+- [Tic Tac Toe Game](https://github.com/seershan/tic-tac-toe) - Welcome to the Tic-Tac-Toe project! This is a simple yet engaging web-based game of Tic-Tac-Toe, developed using HTML, CSS, and JavaScript. The project serves as a learning exercise to understand the basics of web development, including layout design, styling, and interactive scripting.
 
 ## 🌟 Goals
 
