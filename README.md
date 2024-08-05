@@ -18,6 +18,7 @@ So far, I've completed one project:
 - [Rock Paper Scissors Game](https://github.com/seershan/rock-paper-scissors) - Welcome to the Rock Paper Scissors Game! This project is a simple web-based game developed using HTML, CSS, and JavaScript. The goal of this project was to learn and apply fundamental web development concepts.
 - [Tic Tac Toe Game](https://github.com/seershan/tic-tac-toe) - Welcome to the Tic-Tac-Toe project! This is a simple yet engaging web-based game of Tic-Tac-Toe, developed using HTML, CSS, and JavaScript. The project serves as a learning exercise to understand the basics of web development, including layout design, styling, and interactive scripting.
 - [Keep Screen On](https://github.com/seershan/keep-screen-on) - A simple web application designed to prevent your PC screen from turning off while the page is open.
+- [Basic Temp Converter](https://github.com/seershan/basic-temp-converter) - A simple C++ program to convert temperatures between Celsius and Fahrenheit.
 
 ## 🌟 Goals
 
