@@ -17,15 +17,18 @@ So far, I've completed one project:
 - [Work Fast Notepad](https://github.com/seershan/Work-Fast-Notepad) - Work Fast Notepad is a sleek and efficient online notepad application designed to enhance your productivity. A minimalist interface and essential features provide a distraction-free environment for jotting down notes, brainstorming ideas, or drafting documents quickly.
 - [Rock Paper Scissors Game](https://github.com/seershan/rock-paper-scissors) - Welcome to the Rock Paper Scissors Game! This project is a simple web-based game developed using HTML, CSS, and JavaScript. The goal of this project was to learn and apply fundamental web development concepts.
 - [Tic Tac Toe Game](https://github.com/seershan/tic-tac-toe) - Welcome to the Tic-Tac-Toe project! This is a simple yet engaging web-based game of Tic-Tac-Toe, developed using HTML, CSS, and JavaScript. The project serves as a learning exercise to understand the basics of web development, including layout design, styling, and interactive scripting.
+- [Expense Tracker](https://github.com/seershan/expense-tracker) - A simple command-line expense tracker written in Python. This tracker allows you to add, view, and delete expenses, storing the data in a CSV file.
 - [Keep Screen On](https://github.com/seershan/keep-screen-on) - A simple web application designed to prevent your PC screen from turning off while the page is open.
 - [Basic Temp Converter](https://github.com/seershan/basic-temp-converter) - A simple C++ program to convert temperatures between Celsius and Fahrenheit.
+- [Basic Banking Program](https://github.com/seershan/basic-banking-program) - This is a simple console-based banking system written in C++. The program allows users to create an account, deposit money, withdraw money, and check their balance. It is designed for educational purposes to demonstrate the use of classes, file handling, and basic C++ syntax.
+ 
 
 ## 🌟 Goals
 
 My ultimate goal? To become a coding superstar! But for now, I'm focused on:
 - 🌐 Expanding my knowledge in full stack development.
-- 🐍 Knowing Python and its various applications.
-- 💻 Mastering DSA with C++ and JAVA
+- 🐍 Developing knowledge of different languages and their various applications.
+- 💻 Mastering DSA with C++.
 - 🚀 Building more awesome projects and contributing to the coding community.
 
 ## 💬 Let's Connect!
