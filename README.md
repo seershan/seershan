@@ -6,7 +6,10 @@ Welcome to my GitHub profile! I'm currently diving into the exciting realms of f
 
 - 💻 Currently learning full stack development and Python.
 - 📚 First-year BCA student eager to absorb all things coding.
-- 🎉 Always excited to tackle new projects and challenges.
+- 🎉 Always excited to tackle new projects and challenges
+
+💬 Let's talk about **Web Development | Artificial Intelligence**
+
 
 ## 🛠️ My Projects
 
@@ -43,6 +46,10 @@ My ultimate goal? To become a coding superstar! But for now, I'm focused on:
 ## 💬 Let's Connect!
 
 Do you have questions about my projects or just want to chat about coding? Reach out to me at seershanmitra@gmail.com. I'd love to hear from you!
+<p align="left">
+<a href="https://twitter.com/seershanmitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seershanmitra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/seershanmitra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seershanmitra/" height="30" width="40" /></a>
+</p>
 
 ## 🚀 Stay Tuned!
 
