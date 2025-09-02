@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm currently diving into the exciting realms of f
 
 ## 🚀 About Me
 
-- 💻 Currently learning full stack development and Python.
-- 📚 First-year BCA student eager to absorb all things coding.
+- 💻 Currently learning full stack development and JAVA.
+- 📚 Second-year BCA student eager to absorb all things coding.
 - 🎉 Always excited to tackle new projects and challenges
 
-💬 Let's talk about **Web Development | Artificial Intelligence**
+💬 Let's talk about **Web Development | Upcoming Technologies**
 
 
 ## 🛠️ My Projects
