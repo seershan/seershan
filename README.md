@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm currently diving into the exciting realms of f
 - 📚 Second-year BCA student eager to absorb all things coding.
 - 🎉 Always excited to tackle new projects and challenges
 
-💬 Let's talk about **Web Development | Upcoming Technologies**
+💬 Let's talk about ** Full Stack Web Development | Upcoming Technologies**
 
 
 ## 🛠️ My Projects
