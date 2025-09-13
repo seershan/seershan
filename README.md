@@ -9,7 +9,7 @@
 
 - 🔭 I previously worked on [Plugged In Notes](https://seershan.github.io/plugged-in-notes/)
 
-- 🌱 I’m currently learning **Node.JS and React.JS**
+- 🌱 I’m currently learning **Node.JS and React.JS and focusing on Full Stack Development.**
 
 - 👨‍💻 I also worked on [Codify](https://seershan.github.io/codify/)
 
