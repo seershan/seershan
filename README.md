@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Seershan Mitra</h1>
+<h1 align="center">Hello there 👋, I'm Seershan Mitra.</h1>
 <h3 align="center">I’m a BCA student from INDIA passionate about full-stack web development, currently sharpening my skills in JavaScript, Node.js, and React while exploring AI, Web3, and blockchain. I enjoy turning ideas into practical projects, writing clean code, and learning in public as I build my developer journey one repo at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seershan&label=Profile%20views&color=0e75b6&style=flat" alt="seershan" /> </p>
